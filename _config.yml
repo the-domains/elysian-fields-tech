@@ -1,0 +1,14 @@
+layout_spectrum: 0.9805931504815817
+typography_spectrum: 0.0572980628348887
+color:
+  brandStrength: 0.3302417751401663
+  lightness: 0.07552598346956074
+  saturation: 0.6397729641757905
+  rhythmicContrast: 0.08303308649919927
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Elysian Fields Tech
